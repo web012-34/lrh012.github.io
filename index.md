@@ -1,37 +1,144 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/web012-34/lrh012.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Xiaok‘s Note</title>
+<link rel="shortcut icon" href="https://xiao-k233.github.io/favicon.ico?v=1585572884822">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+<link rel="stylesheet" href="https://xiao-k233.github.io/styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="Xiaok‘s Note - Atom Feed" href="https://xiao-k233.github.io/atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <meta name="description" content="xiaok,MyBit服务器腐竹,易语言开发者,C++菜鸡
+py菜鸡,Minecraft死忠党" />
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://xiao-k233.github.io">
+  <img class="avatar" src="https://xiao-k233.github.io/images/avatar.png?v=1585572884822" alt="">
+  </a>
+  <h1 class="site-title">
+    Xiaok‘s Note
+  </h1>
+  <p class="site-description">
+    xiaok,MyBit服务器腐竹,易语言开发者,C++菜鸡
+py菜鸡,Minecraft死忠党
+  </p>
+  <div class="menu-container">
+    
+      
+        <a href="/" class="menu">
+          首页
+        </a>
+      
+    
+      
+        <a href="/archives" class="menu">
+          归档
+        </a>
+      
+    
+      
+        <a href="/tags" class="menu">
+          标签
+        </a>
+      
+    
+      
+        <a href="/post/about" class="menu">
+          关于
+        </a>
+      
+    
+  </div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+</div>
 
-```markdown
-Syntax highlighted code block
+    
+        <div class="post-container">
+  
+    <article class="post">
+      <a href="https://xiao-k233.github.io/shou-ci-shi-yong-dian-bao/">
+        <h2 class="post-title">首次使用电报</h2>
+      </a>
+      <div class="post-info">
+        <span>
+          2020-03-14
+        </span>
+        <span>
+          1 min read
+        </span>
+        
+      </div>
+      
+      <div class="post-abstract">
+        
+      </div>
+    </article>
+  
+    <article class="post">
+      <a href="https://xiao-k233.github.io/hello-gridea/">
+        <h2 class="post-title">Hello Gridea</h2>
+      </a>
+      <div class="post-info">
+        <span>
+          2018-12-12
+        </span>
+        <span>
+          2 min read
+        </span>
+        
+          <a href="https://xiao-k233.github.io/Wdh1HNwpO/" class="post-tag">
+            # Gridea
+          </a>
+        
+      </div>
+      
+        <a href="https://xiao-k233.github.io/hello-gridea/" class="post-feature-image" style="background-image: url('https://xiao-k233.github.io/post-images/hello-gridea.png')">
+        </a>
+      
+      <div class="post-abstract">
+        <p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+nice,搭建成功了！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 
-# Header 1
-## Header 2
-### Header 3
+      </div>
+    </article>
+  
+</div>
 
-- Bulleted
-- List
+    
+        <div class="pagination-container">
+  
+  
+</div>
 
-1. Numbered
-2. List
+    
+        <div class="site-footer">
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
+  <a class="rss" href="https://xiao-k233.github.io/atom.xml" target="_blank">
+    <i class="ri-rss-line"></i> RSS
+  </a>
+</div>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/web012-34/lrh012.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+      </div>
+    </div>
+  </body>
+</html>
